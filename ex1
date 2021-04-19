@@ -1,0 +1,6 @@
+creer un repertoire (mkdir)
+creer un programme (en C)
+ce programme :
+
+lit un caractere sur l'entrer standard (stdin = 0) avec l'appel system (read)
+ecrit ce caractere sur la sortie standard (stdout = 1) avec l'appel system (write)

@@ -1,0 +1,7 @@
+creer un repertoire (mkdir)
+creer un programme (en C)
+ce programme :
+
+lit une chaine de caractere sur l'entrer standard (stdin = 0) jusqu'au charactere de fin de ligne (\n) avec l'appel system (read)
+evalue la taille de la chaine de charactere avec une fonction faite a la main ressemblant a (strlen)
+ecrit cette chaine de caractere sur la sortie standard (stdout = 1) avec l'appel system (write)

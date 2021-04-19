@@ -1,0 +1,6 @@
+creer un depot github
+
+cloner le depot github (git clone)
+ajouter un fichier README.md (git add)
+faire un commit (git commit -m "commentaire")
+pousser les modifications (git push origin master)
