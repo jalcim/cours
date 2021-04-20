@@ -1,0 +1,6 @@
+creer un repertoire (mkdir)
+creer un programme (en C)
+ce programme :
+
+utilise les appels system (fork) et (getpid)
+le pere affiche le pid du fils, et le fils le pid du pere

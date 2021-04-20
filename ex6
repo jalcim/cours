@@ -1,0 +1,7 @@
+creer un repertoire (mkdir)
+creer un programme (en C)
+ce programme :
+
+utilise les appels system (sleep) (fork) (signal) (kill) (wait)
+le pere cree un fils(fork), attend 5 seconde(sleep), puis lui envoie un signal(kill) <SIGUSR1>
+le fils attend le signal(signal)(wait) <SIGUSR1> puis return.

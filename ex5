@@ -1,0 +1,3 @@
+decrire ce que fais ces commande
+<echo "hello world !" > file>
+<echo "elle est ou la poulette ?" >> file>
